@@ -4,9 +4,9 @@ Shell de la asignatura de sistemas operativos (UMA)
 Con los ejercicios  obligatorios del examen de junio 2019
 
 Para hacer llamadas a señales (por ejemplo SIGHUP):
-        -Teclea ps en la Shell.
-        - Copia el número de PID de Shell
-        - Escribe kill nºPID -SIGHUP
+           - Teclea ps en la Shell.
+           - Copia el número de PID de Shell.
+           - Escribe kill nºPID -SIGHUP.
 
 Modificaciones obligatorias [total: 5 ptos]:
 
